@@ -37,7 +37,7 @@ Did I mention it was a bluebird day? Once we reached the col we were greeted wit
 From the col we skiied southeast into the trees, enjoying the best snow of the day. The sun had warmed this slope and we had what was approaching corn-snow in the middle of January! We transitioned and skinned straight back up to the ridgeline east of The Castle to plan our next move. Surveying the terrain a NW-facing line just below Foss peak caught our eye and we decided to head that direction.
 
 <figure>
-  <img src="{{site.url}}/assets/img/2022-01-15-tatoosh-ski-tour/foss.jpg" alt="Foss line"/>
+  <img src="{{site.url}}/assets/img/2022-01-15-tatoosh-ski-tour/foss.JPG" alt="Foss line"/>
   <figcaption>Looking towards Foss, with our intended line (photo from Kincaid)</figcaption>
 </figure>
 
