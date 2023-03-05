@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Zealand: Auckland day 1
+title: New Zealand - Auckland day 1
 subtitle: 
 tags: [new-zealand, vacation]
 comments: true
