@@ -60,13 +60,12 @@ The highlight of the museum was the Māori cultural show. A troupe of 7 young na
   <figcaption>A fiersome weapons demonstration</figcaption>
 </figure>
 
-<< battle dance >>
 <figure>
   <img src="{{site.url}}/assets/img/2023-03-06-auckland-day-3/haka.JPG" alt="haka"/>
   <figcaption>The Haka dance and chant</figcaption>
 </figure>
 
-The "war" part of the war museum was a bit underwhelming compared to some other war museums we've visited, though that is probably an unfair comparison - it's tough to live up the the imperial war museum and the WWI museum in Kansas City! The full-size Zero and Spitfire were very cool.
+The "war" part of the war museum was a bit underwhelming compared to some other war museums we've visited, though that is probably an unfair comparison - it's tough to live up the the Imperial War Museum and the WWI museum in Kansas City! The full-size Zero and Spitfire were very cool.
 
 <figure>
   <img src="{{site.url}}/assets/img/2023-03-06-auckland-day-3/spitfire.JPG" alt="spitfire"/>
