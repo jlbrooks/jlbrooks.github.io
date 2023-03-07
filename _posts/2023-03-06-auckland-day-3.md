@@ -19,7 +19,7 @@ With mediocre weather and a flight to Queenstown that evening, we decided that o
 </figure>
 
 <figure>
-  <img src="{{site.url}}/assets/img/2023-03-06-auckland-day-3/blue_rectangle.JPG" alt="blue-rectangle"/>
+  <img src="{{site.url}}/assets/img/2023-03-06-auckland-day-3/blue_rectangle.JPG" alt="blue_rectangle"/>
   <figcaption>Blue!</figcaption>
 </figure>
 
@@ -83,4 +83,11 @@ After getting our museum fill we headed back to the airport for our journey sout
 <figure>
   <img src="{{site.url}}/assets/img/2023-03-06-auckland-day-3/lakes.JPG" alt="lakes"/>
   <figcaption>Farmland, to lakes, to mountains</figcaption>
+</figure>
+
+The approach to Queenstown airport was one of the most remarkable I've experienced - a slow banking right turn through a steep valley into a relatively short runway. We used all of it! After picking up our rental car (a truck!) and checking in at our hotel in Queenstown we walked through the lively waterfront to grab a pint and snack at [Smith's Craft Beer House](https://smithscraftbeer.co.nz).
+
+<figure>
+  <img src="{{site.url}}/assets/img/2023-03-06-auckland-day-3/pretzel.JPG" alt="pretzel"/>
+  <figcaption>Pretzel and a pint after a long day</figcaption>
 </figure>
