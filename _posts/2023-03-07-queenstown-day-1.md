@@ -61,7 +61,7 @@ The winding, sometimes-steep trail meandered alongide a river up a canyon that p
   <figcaption>Kaitlin hides from the Nazgul</figcaption>
 </figure>
 
-After 3.5 miles (or I should say, 5km) and 1800 feet of elevation gain later we arrived at the upper viewpoint and were rewarded with a stunning look at the Rob Roy Glacier. A light drizzle didn't stop us from enjoying some venison salami and aged cheddar cheese.
+After 3.5 miles (or I should say, 5km) and 1800 feet of elevation gain later we arrived at the upper viewpoint and were rewarded with a stunning look at the Rob Roy Glacier. A light drizzle didn't stop us from enjoying some venison salami and aged cheddar cheese as we took in the view.
 
 <figure>
   <img src="{{site.url}}/assets/img/2023-03-07-queenstown-day-1/glacier-near.JPG" alt="glacier-near"/>
