@@ -18,7 +18,7 @@ So, we called an audible and began a two hour drive up to Mount Aspiring Nationa
 Descending from the Crown Range we passed through Wanaka and started on a gravel road for the last 30 miles to the trailhead. This was an entertaining drive, featuring endless fields of farm animals (including deer!) from the Aspiring Station farming family that owns the land in the valley floor.
 
 <figure>
-  <img src="{{site.url}}/assets/img/2023-03-07-queenstown-day-1/deer.JPG" alt="farm-deer"/>
+  <img src="{{site.url}}/assets/img/2023-03-07-queenstown-day-1/deer.jpg" alt="farm-deer"/>
   <figcaption>Herds of suspicious deer</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ The winding, sometimes-steep trail meandered alongide a river up a canyon that p
 </figure>
 
 <figure>
-  <img src="{{site.url}}/assets/img/2023-03-07-queenstown-day-1/nazgul.JPG" alt="nazgul"/>
+  <img src="{{site.url}}/assets/img/2023-03-07-queenstown-day-1/nazgul.jpg" alt="nazgul"/>
   <figcaption>Kaitlin hides from the Nazgul</figcaption>
 </figure>
 
