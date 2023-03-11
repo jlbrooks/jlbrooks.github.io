@@ -27,30 +27,30 @@ There's not much to see in Glenorchy, but we drove a bit further north to see a 
   <figcaption>Looking out over Isengard</figcaption>
 </figure>
 
-We headed back towards Queenstown and decided to check out something we saw yesterday on our walk up to the gondola: The Kiwi Sanctuary! They have more than just Kiwis, maybe 15 or so native bird enclosures and a reptile room. We arrived just in time to catch a conservation show and learned about the <<lizard>> and <<owl>>.
+We headed back towards Queenstown and decided to check out something we saw yesterday on our walk up to the gondola: The [Kiwi Park](https://www.kiwibird.co.nz)! They have more than just Kiwis, maybe 15 or so native bird enclosures and a reptile room. We arrived just in time to catch a conservation show and learned about the Turatara reptile and Ruru/Morepork owl.
 
 <figure>
   <img src="{{site.url}}/assets/img/2023-03-10-queenstown-day-4/owl.JPG" alt="owl"/>
-  <figcaption>Naturalist showing off the <<owl>></figcaption>
+  <figcaption>Naturalist showing off the Ruru</figcaption>
 </figure>
 
 New Zealand doesn't have many native species, but the ones that they do have are very cool. Being so isolated, they followed some different evolutionary paths.
 
 <figure>
   <img src="{{site.url}}/assets/img/2023-03-10-queenstown-day-4/hawk.JPG" alt="hawk"/>
-  <figcaption>((name of hawk)</figcaption>
+  <figcaption>Karearea, the New Zealand Falcon</figcaption>
 </figure>
 
 <figure>
   <img src="{{site.url}}/assets/img/2023-03-10-queenstown-day-4/parrot.JPG" alt="parrot"/>
-  <figcaption>My favorites, the ((parrot)</figcaption>
+  <figcaption>My favorites, the Kea</figcaption>
 </figure>
 
 There are no mammals native to the islands, so the kiwis evolved to fill a similar niche. In practice they are more like possums or stoats than other birds. They are nocturnal and their enclosure is darkened so unfortunately we didn't get any pictures, but they were a sight to see racing back and forth on their stout legs.
 
 <figure>
   <img src="{{site.url}}/assets/img/2023-03-10-queenstown-day-4/ground-bird.JPG" alt="ground-bird"/>
-  <figcaption>((ground bird))</figcaption>
+  <figcaption>Buff Weka</figcaption>
 </figure>
 
 Our time in Queenstown quickly coming to an end, we departed the Kiwi Sanctuary and headed back to the Queenstown airport. Our time on the south island was incredible and I'm sure we'll be back someday.
