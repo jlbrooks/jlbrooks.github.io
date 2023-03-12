@@ -1,7 +1,7 @@
 ---
 layout: post
-title: New Zealand - Queenstown day 4
-subtitle: Glenorchy and the bird sanctuary
+title: New Zealand - Rotorua day 1
+subtitle: Hobbiton
 tags: [new-zealand, vacation]
 comments: true
 ---
