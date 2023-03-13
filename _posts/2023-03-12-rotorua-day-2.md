@@ -32,10 +32,11 @@ The course itself was cool, but the highlight for me was just the perspective of
   <figcaption>Looking down on the tree ferns</figcaption>
 </figure>
 
-After completing our adventure with a short jump off the last platform we headed back to the city and drank a couple of local [Croucher beers](http://www.croucherbrewing.co.nz) at a pub near our hotel while I wrote up the previous day's blog post. Later that evening we had our last activity in Rotorua: A soak in the mineral pools and massage at the [Polynesian Spa](https://www.polynesianspa.co.nz).
+After completing our adventure with a short jump off the last platform we headed back to the city and drank a couple of local [Croucher beers](http://www.croucherbrewing.co.nz) at a pub near our hotel while I wrote up the previous day's blog post. Later that evening we had our last activity in Rotorua: A soak in the mineral pools and massage at the [Polynesian Spa](https://www.polynesianspa.co.nz). No pictures from that but the walk back through the government gardens at sunset was lovely.
 
 <figure>
   <img src="{{site.url}}/assets/img/2023-03-12-rotorua-day-2/building.JPG" alt="building"/>
   <figcaption>The Old Bath House building at sunset</figcaption>
 </figure>
 
+Tomorrow we drive south to Turangi in preparation for the Tongariro Crossing trek.
