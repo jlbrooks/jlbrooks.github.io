@@ -1,3 +1,4 @@
+---
 layout: post
 title: New Zealand - Turangi day 2
 subtitle: The Tongariro Crossing
