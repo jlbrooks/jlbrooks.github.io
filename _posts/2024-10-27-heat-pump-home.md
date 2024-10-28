@@ -41,4 +41,4 @@ I input the configuration and it worked like a charm. It even connected through 
   <figcaption>The home assistant config</figcaption>
 </figure>
 
-As I didn't complete the SmartIR config the main project won't accept it, but I'll upload my partial config here for posterity: [Github link]()
+As I didn't complete the SmartIR config the main project won't accept it, but I'll upload my partial config here for posterity: [Github link](https://github.com/jlbrooks/jlbrooks.github.io/blob/master/assets/files/2024-10-27-heat-pump-home.md/heat_pump_smartir.json).
