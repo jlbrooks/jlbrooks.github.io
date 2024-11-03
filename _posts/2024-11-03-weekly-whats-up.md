@@ -7,7 +7,7 @@ comments: true
 ---
 
 # What I'm reading
-- I finished [[Play Nice]](https://www.hachettebookgroup.com/titles/jason-schreier/play-nice/9781538725429/). A must-read if you are a fan of Blizzard games, and a great read if you have any interest in business of making video games. It's a great look into how a company grows up (or doesn't!) over 30 years.
+- I finished [Play Nice](https://www.hachettebookgroup.com/titles/jason-schreier/play-nice/9781538725429/). A must-read if you are a fan of Blizzard games, and a great read if you have any interest in business of making video games. It's a great look into how a company grows up (or doesn't!) over 30 years.
 - I'm always reading Matt Levine's [Money Stuff](https://www.bloomberg.com/account/newsletters/money-stuff) newsletter. I've learned so much from reading his work every weekday for the past couple of years; it's kicked off an interest in the financial industry in general. This week, though I read Gwern's article [Why so few Matt Levines?](https://gwern.net/matt-levine) that offered some interesting perspective on why Matt is so successful.
 
 # What I'm playing
