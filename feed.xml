@@ -20,7 +20,6 @@ layout: null
         <content type="html" xml:base="{{ post.link }}">{{ post.content | xml_escape }}</content>
         <summary type="html">{{ post.excerpt | xml_escape }}</summary>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ post.url | absolute_url }}</link>
         <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
         <author><name>Jacob Brooks</name></author>
       </item>
