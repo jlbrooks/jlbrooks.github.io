@@ -15,14 +15,14 @@ layout: null
     {% assign excerpt_length = site.excerpt_length | default: 50 %}
     {% for post in site.posts limit:20 %}
       <item>
-        <title>{{ post.title | strip_html | xml_escape }}</title>
-        <description>
-          {% if post.subtitle %}{{ post.subtitle | strip_html | xml_escape }} - {% endif %}
-          {{ post.content | strip_html | xml_escape | truncatewords: excerpt_length }}
-        </description>
+        {% if post.link %}<title>&#9733; {{ post.title | xml_escape }}</title>{% else %}<title>{{ post.title | xml_escape }}</title>{% endif %}
+        {% if post.link %}<link href="{{ post.link }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape}}"/>{% else %}<link href="{{ site.url }}{{ post.url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}"/>{% endif %}
+        <content type="html" xml:base="{{ post.link }}">{{ post.content | xml_escape }}</content>
+        <summary type="html">{{ post.excerpt | xml_escape }}</summary>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         <link>{{ post.url | absolute_url }}</link>
         <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+        <author><name>Jacob Brooks</name></author>
       </item>
     {% endfor %}
   </channel>
