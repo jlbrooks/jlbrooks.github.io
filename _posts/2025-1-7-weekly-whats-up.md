@@ -18,4 +18,4 @@ comments: true
 - Writing this update as I'm watching the first [TGL](https://tglgolf.com/) matchup. It's... fine? The shot clock is great, the banter isn't too cringe. If this is going to succeed they need to get wild with the holes. Take notes from [Club TFE's design challenge](https://www.youtube.com/watch?v=DlbxEFDs2-8)!
 
 # What I'm writing
-- I wrote up [[2025-1-5 My favorite video games of 2024]].
+- I wrote up [2025-1-5 My favorite video games of 2024]({{ '/2025-1-5-my-favorite-videogames-2024' | relative_url }}).
