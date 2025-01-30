@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1/13/2024 Weekly what's up
+title: 1/13/2025 Weekly what's up
 subtitle: 
 tags: [weekly-whats-up]
 comments: true
