@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Napa recommendations
+title: Visting Napa
 subtitle: Where to stay, eat, and drink
 ---
 
