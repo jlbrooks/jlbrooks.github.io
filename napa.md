@@ -10,6 +10,7 @@ Napa is not cheap to stay in, and I think that it's worth trying to stay close t
 - If you like being in the heart of things, walking to food, and don't mind spending a bit more money, then the [Archer Hotel](https://archerhotel.com/napa),  [Andaz](https://www.hyatt.com/andaz/apcrn-andaz-napa), or the [Napa River Inn](https://www.napariverinn.com/) are all good options. 
 	- The BnBs just south of downtown are also a great location ([The George](https://www.thegeorgenapa.com/), [Cedar Gables Inn](https://www.cedargablesinn.com/), etc.)
 - If you don't mind being a bit further away (~1 mile walk to downtown) then the [Discovery Inn](https://www.napadiscoveryinn.com/), [Hawthorn Suites](https://www.napavalleyinns.com/), or [Hampton Inn and Suites](https://www.hilton.com/en/hotels/apcighx-hampton-suites-napa/) are all fine.
+
 # Food
 All of our favorites. So much good food in Napa, so just because something is not on this list doesn't mean it's not worth visiting.
 
