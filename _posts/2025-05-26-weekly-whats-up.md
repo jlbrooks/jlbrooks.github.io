@@ -16,5 +16,5 @@ comments: true
 - Playing a lot of golf. Competitive 36 hole event at my club last weekend, Wednesday evening beer league the past few weeks, 9 hole evening rounds with Rory. Continually tweaking the swing but have found what feels like a good move - 90 feels like the ceiling for my game now.
 
 # What I'm writing
-- Some cousins are visiting Napa later this year so I put together a public page with recommendations. Will try to keep this updated: [Visiting Napa](https://jlbrooks.tech/napa/).
+- Some cousins are visiting Napa later this year so I put together a public page with recommendations. Will try to keep this updated: [Visiting Napa]({{ '/napa/' | relative_url }}).
 
