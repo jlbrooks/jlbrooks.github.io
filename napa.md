@@ -66,14 +66,26 @@ We don't get out a ton to taste, but these are our favorites:
 - [Bouchaine](https://maps.app.goo.gl/phYJq5qvTCE3rDcM6) out in Carneros has a lovely outdoor tasting area.
 - [Sleeping Giant](https://maps.app.goo.gl/KQdGSVb5Xd2d7fb98), also out in Carneros.
 - [Schramsberg](https://maps.app.goo.gl/vzS2KhuS8Nagbufg9) for sparkling wine. Cool to tour the caves, and Kaitlin's parents' grapes are in the J Schram.
+- [Stags Leap Cellars](https://www.stagsleapwinecellars.com/visit/tours-and-tastings). Beautiful location.
+- [Domaine Carneros](https://www.domainecarneros.com) Good sparkling wine and has a beautiful building.
 
 Some options in town:
 - [No Love Lost](https://maps.app.goo.gl/Je8Vdj6YMusW9d7K7) great wine at a very reasonable price.
 - [Azur wines](https://maps.app.goo.gl/UyEbBx2LVAexrb5f9).
+- [Krupp Brothers Tasting Room](https://www.kruppbrothers.com/Visit-Us/Tasting-Room)
 - [Mia Carta](https://maps.app.goo.gl/7JrMAD4QgbiNxaQ57) is a fun tasting room that offers wine from ~6-10 very small producers.
+
+Or in Sonoma:
+- There are a lot of tasting rooms around the plaza in Sonoma:
+	- [SIGH](https://www.sighsonoma.com). Champagne & sparkling 
+    - [Lake Sonoma Winery](https://lakesonomawinery.com)
+    - [Valley of the Moon Winery](https://valleyofthemoonwinery.com)
+- [Bartholomew Estate Vineyards and Winery](https://www.bartholomewestate.com). This winery is in the middle of Bartholomew park and it’s a great place for a hike, picnic and a glass of wine. They also offer guided 45-minute horseback rides through the vineyards for $140 per person. (Horseback ride includes a bottle of wine). They also offer bottles to go that you can take for a picnic in the park.
+
 
 # Activities
 - Mentioned a couple of times above, but the [Oxbow public market](https://maps.app.goo.gl/YjoSFevBN7A5CfjK8) is worth a visit. Lots of good food, a sweet shop, a book shop, and a small grocery. Nice place to get lunch and hang out.
+- [Di Rosa Center for Contemporary Art](https://www.dirosaart.org/). Cool outdoor art preserve.
 - The [Sonoma central plaza](https://maps.app.goo.gl/qKZPQVRpdycgUH6D9) is lovely. Lots of shops and restaurants lining the square and open containers are allowed - great spot for a picnic with a bottle of wine. On Tuesday nights in the summer there is a [farmers market with live music](https://www.sonomacity.org/sonomas-market/).
 
 There's good hiking around:
@@ -81,5 +93,17 @@ There's good hiking around:
 - Lake Hennessey from [Moore creek park](https://maps.app.goo.gl/7PTTrKNqi2cLNPDt9). Can either hike up the creek and [loop up to the ridge](https://www.alltrails.com/trail/us/california/valentine-vista-trail) or if you're up for something longer head down to [the bluff above the lake](https://www.alltrails.com/trail/us/california/conn-peak-via-alta-hennessey-and-shoreline-loop?u=i&sh=veblwm).
 - For something flatter, [Wetlands park](https://maps.app.goo.gl/j6TemwFt3L2D2sa98) down in American Canyon has a nice loop right next to the water.
 
+If you want to go out to the coast, Point Reyes station is nice. Some things to do:
+- [Cowgirl creamery](https://cowgirlcreamery.com). Delicious cheese and a fun spot for lunch or a snack
+- [Heidrun Meadery](https://www.heidrunmeadery.com). Hiedrun makes sparkling mead (honey wine), tastings $20/flight, table reservations are good for an hour and a half. You are allowed to bring a picnic to enjoy while you are visiting.
+- [Point Reyes National Seashore](https://www.nps.gov/pore/index.htm). Beautiful spot for a hike
+
+Or, Tomales Bay for some seafood:
+- [Tomales Bay Oyster Company](http://tomalesbayoystercompany.com/)
+- [The Marshall Store](https://themarshallstore.com/menu). Seafood shack offering oysters & other local shellfish
+- [Hog Island Oyster Co](https://themarshallstore.com/menu)
+- [Nick’s Cove](http://www.nickscove.com/). Seafood restaurant overlooking the bay
+
 # Changelog
-- 2025-5-6: Created the page
+- 2025-5-28: Added recommendations from Kaitlin - more wineries, Point Reyes, Tomales bay, Di Rosa
+- 2025-5-26: Created the page
