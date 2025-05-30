@@ -22,6 +22,15 @@ Pub food:
 - [Napa Palisades](https://napapalisades.com/)
 - [Gotts](https://www.gotts.com/), of course!
 
+Breakfast:
+- [Winston's](https://winstonsnapa.com/) is our favorite spot.
+- [Petit Soleil](https://www.petitsoleilonclay.com/)
+
+Coffee:
+- [Ohm coffee roasters](https://www.ohmcoffee.com/)
+- [Ritual coffee](https://ritualcoffee.com/location/napa/), in the Oxbow
+- [Moulin Bakery and Coffee](https://www.moulinbakerycoffee.com/)
+
 Seafood:
 - [Scala](https://www.scalaosteria.com/)
 - [Hog island](https://hogislandoysters.com/) at the Oxbow.
@@ -105,5 +114,6 @@ Or, Tomales Bay for some seafood:
 - [Nick’s Cove](http://www.nickscove.com/). Seafood restaurant overlooking the bay
 
 # Changelog
+- 2025-5-29: Add breakfast and coffee
 - 2025-5-28: Added recommendations from Kaitlin - more wineries, Point Reyes, Tomales bay, Di Rosa
 - 2025-5-26: Created the page
