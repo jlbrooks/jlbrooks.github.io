@@ -11,10 +11,9 @@ layout: base
     </div>
   </div>
 
-  {% assign posts = paginator.posts | default: site.posts %}
-  {% assign weekly_posts = posts | where: "tags", "weekly-whats-up" %}
+  {% assign weekly_posts = site.posts | where: "tags", "weekly-whats-up" %}
   {% assign regular_posts = "" | split: "" %}
-  {% for post in posts %}
+  {% for post in site.posts %}
     {% unless post.tags contains "weekly-whats-up" %}
       {% assign regular_posts = regular_posts | push: post %}
     {% endunless %}
@@ -118,26 +117,9 @@ layout: base
         {% endfor %}
       </ul>
 
-      {% if paginator.total_pages > 1 %}
-      <ul class="pagination main-pager">
-        {% if paginator.previous_page %}
-        <li class="page-item previous">
-          <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">
-            <i class="fas fa-arrow-left" alt="Newer Posts"></i>
-            <span class="d-none d-sm-inline-block">Newer Posts</span>
-          </a>
-        </li>
-        {% endif %}
-        {% if paginator.next_page %}
-        <li class="page-item next">
-          <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">
-            <span class="d-none d-sm-inline-block">Older Posts</span>
-            <i class="fas fa-arrow-right" alt="Older Posts"></i>
-          </a>
-        </li>
-        {% endif %}
-      </ul>
-      {% endif %}
+      {% comment %}
+      Pagination removed - showing latest regular posts directly
+      {% endcomment %}
     </div>
 
     <!-- Weekly Posts - Sidebar -->
