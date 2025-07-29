@@ -12,8 +12,13 @@ layout: base
   </div>
 
   {% assign posts = paginator.posts | default: site.posts %}
-  {% assign regular_posts = posts | where_exp: "item", "item.tags contains 'weekly-whats-up' == false" %}
   {% assign weekly_posts = posts | where: "tags", "weekly-whats-up" %}
+  {% assign regular_posts = "" | split: "" %}
+  {% for post in posts %}
+    {% unless post.tags contains "weekly-whats-up" %}
+      {% assign regular_posts = regular_posts | push: post %}
+    {% endunless %}
+  {% endfor %}
 
   <div class="row">
     <!-- Regular Posts - Main Column -->
