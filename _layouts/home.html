@@ -13,14 +13,16 @@ layout: base
 
   {% comment %} Custom pagination for regular posts (excluding weekly posts) {% endcomment %}
   {% assign all_posts = site.posts %}
-  {% assign weekly_posts = all_posts | where: "tags", "weekly-whats-up" %}
   
-  {% comment %} Filter all posts to get only regular posts {% endcomment %}
+  {% comment %} Filter posts into weekly and regular categories {% endcomment %}
+  {% assign weekly_posts = "" | split: "" %}
   {% assign all_regular_posts = "" | split: "" %}
   {% for post in all_posts %}
-    {% unless post.tags contains "weekly-whats-up" %}
+    {% if post.tags contains "weekly-whats-up" %}
+      {% assign weekly_posts = weekly_posts | push: post %}
+    {% else %}
       {% assign all_regular_posts = all_regular_posts | push: post %}
-    {% endunless %}
+    {% endif %}
   {% endfor %}
   
   {% comment %} Calculate pagination for regular posts {% endcomment %}
