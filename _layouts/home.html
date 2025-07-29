@@ -31,7 +31,8 @@ layout: base
   {% assign offset = current_page | minus: 1 | times: posts_per_page %}
   {% assign total_regular_posts = all_regular_posts.size %}
   {% assign total_pages = total_regular_posts | divided_by: posts_per_page %}
-  {% if total_regular_posts modulo posts_per_page > 0 %}
+  {% assign remainder = total_regular_posts | modulo: posts_per_page %}
+  {% if remainder > 0 %}
     {% assign total_pages = total_pages | plus: 1 %}
   {% endif %}
   
