@@ -11,13 +11,40 @@ layout: base
     </div>
   </div>
 
-  {% assign posts = paginator.posts | default: site.posts %}
-  {% assign weekly_posts = posts | where: "tags", "weekly-whats-up" %}
+  {% comment %} Custom pagination for regular posts (excluding weekly posts) {% endcomment %}
+  {% assign all_posts = site.posts %}
+  
+  {% comment %} Filter posts into weekly and regular categories {% endcomment %}
+  {% assign weekly_posts = "" | split: "" %}
+  {% assign all_regular_posts = "" | split: "" %}
+  {% for post in all_posts %}
+    {% if post.tags contains "weekly-whats-up" %}
+      {% assign weekly_posts = weekly_posts | push: post %}
+    {% else %}
+      {% assign all_regular_posts = all_regular_posts | push: post %}
+    {% endif %}
+  {% endfor %}
+  
+  {% comment %} Calculate pagination for regular posts {% endcomment %}
+  {% assign posts_per_page = 5 %}
+  {% assign current_page = paginator.page | default: 1 %}
+  {% assign offset = current_page | minus: 1 | times: posts_per_page %}
+  {% assign total_regular_posts = all_regular_posts.size %}
+  {% assign total_pages = total_regular_posts | divided_by: posts_per_page %}
+  {% assign remainder = total_regular_posts | modulo: posts_per_page %}
+  {% if remainder > 0 %}
+    {% assign total_pages = total_pages | plus: 1 %}
+  {% endif %}
+  
+  {% comment %} Get regular posts for current page {% endcomment %}
   {% assign regular_posts = "" | split: "" %}
-  {% for post in posts %}
-    {% unless post.tags contains "weekly-whats-up" %}
+  {% assign count = 0 %}
+  {% for post in all_regular_posts %}
+    {% assign index = forloop.index0 %}
+    {% if index >= offset and count < posts_per_page %}
       {% assign regular_posts = regular_posts | push: post %}
-    {% endunless %}
+      {% assign count = count | plus: 1 %}
+    {% endif %}
   {% endfor %}
 
   <div class="row">
@@ -26,7 +53,7 @@ layout: base
       <h3>Latest Posts</h3>
       <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
       <ul class="posts-list list-unstyled" role="list">
-        {% for post in regular_posts limit: 10 %}
+        {% for post in regular_posts %}
         <li class="post-preview">
           <article>
 
@@ -118,19 +145,26 @@ layout: base
         {% endfor %}
       </ul>
 
-      {% if paginator.total_pages > 1 %}
+      {% comment %} Custom pagination controls for regular posts {% endcomment %}
+      {% if total_pages > 1 %}
       <ul class="pagination main-pager">
-        {% if paginator.previous_page %}
+        {% if current_page > 1 %}
+        {% assign prev_page = current_page | minus: 1 %}
         <li class="page-item previous">
-          <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">
+          {% if prev_page == 1 %}
+            <a class="page-link" href="{{ '/' | absolute_url }}">
+          {% else %}
+            <a class="page-link" href="{{ '/page' | append: prev_page | append: '/' | absolute_url }}">
+          {% endif %}
             <i class="fas fa-arrow-left" alt="Newer Posts"></i>
             <span class="d-none d-sm-inline-block">Newer Posts</span>
           </a>
         </li>
         {% endif %}
-        {% if paginator.next_page %}
+        {% if current_page < total_pages %}
+        {% assign next_page = current_page | plus: 1 %}
         <li class="page-item next">
-          <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">
+          <a class="page-link" href="{{ '/page' | append: next_page | append: '/' | absolute_url }}">
             <span class="d-none d-sm-inline-block">Older Posts</span>
             <i class="fas fa-arrow-right" alt="Older Posts"></i>
           </a>
