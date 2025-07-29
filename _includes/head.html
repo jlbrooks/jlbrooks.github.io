@@ -33,6 +33,14 @@
 
   <title>{{ title }}</title>
 
+  <!-- Resource hints for performance -->
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//stackpath.bootstrapcdn.com">
+  <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+  <link rel="dns-prefetch" href="//code.jquery.com">
+  <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
   <script defer src="{{ '/assets/js/umatr.js' | absolute_url }}" data-website-id="89c29b4a-478e-4fd2-a921-3e04b4eaa553" data-host-url="https://api-gateway.umami.dev"></script>
 
   {% capture author %}
