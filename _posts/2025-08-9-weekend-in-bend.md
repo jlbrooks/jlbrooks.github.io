@@ -67,11 +67,6 @@ Sunday was slower as we had to be out of the house by 11am. We rode around some 
 
 The dark skies were looming again as we took Rory to a park, and mad dash back to the cars led to us saying hasty goodbyes to narrowly avoid a downpour. We started down the road to a gas station, a fortunate decision as the rain turned into the most intense hail storm I've ever been in. We sheltered at a gas station for 15 minutes before it let up and we started our drive down to Shasta.
 
-<figure>
-  <img src="{{site.url}}/assets/img/2025-08-09-weekend-in-bend/hail.jpg" alt="Hail storm"/>
-  <figcaption>Hail storm</figcaption>
-</figure>
-
 <video width="320" height="240" controls>
   <source src="{{site.url}}/assets/img/2025-08-09-weekend-in-bend/hail.mp4" type="video/mp4" alt="hail storm">
 </video>
