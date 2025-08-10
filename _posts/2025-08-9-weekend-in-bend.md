@@ -72,4 +72,8 @@ The dark skies were looming again as we took Rory to a park, and mad dash back t
   <figcaption>Hail storm</figcaption>
 </figure>
 
+<video width="320" height="240" controls>
+  <source src="{{site.url}}/assets/img/2025-08-09-weekend-in-bend/hail.mp4" type="video/mp4" alt="hail storm">
+</video>
+
 Too short of a trip, but great to see old friends and visit Bend. I love the area and we'll certainly do a longer trip to Sunriver in the future.
