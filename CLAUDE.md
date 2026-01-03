@@ -120,6 +120,7 @@ comments: true  # Enables comment system (if configured)
 
 ### Blog Post Workflow
 1. Create `_posts/YYYY-MM-DD-title.md` with proper front matter
+   - **IMPORTANT**: Date format must use zero-padded months and days (e.g., `2026-01-02`, NOT `2026-1-2`)
 2. Add images to `assets/img/YYYY-MM-DD-title/` directory
 3. Test locally with `bundle exec jekyll serve`
 4. Commit and push to trigger automatic deployment
