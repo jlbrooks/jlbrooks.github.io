@@ -6,7 +6,7 @@ tags: [videogames]
 comments: true
 ---
 
-Just like [in 2024]({{ '/2025-1-5-my-favorite-videogames-2024' | relative_url }}) I want to recap what stuck with me this year. A great year for games!
+Just like [in 2024]({{ '/2025-01-05-my-favorite-videogames-2024/' | relative_url }}) I want to recap what stuck with me this year. A great year for games!
 
 # GOTOY (games of the other year) honorable mentions that I played this year
 ## [Ridge Racers 2](https://store.playstation.com/en-us/concept/10005097) (2006)
