@@ -1016,6 +1016,10 @@ pre {
   margin-bottom: 0;
 }
 
+.blog-post figure {
+  margin-top: 1rem;
+}
+
 .center {
   display: block;
   margin: 0 auto;
