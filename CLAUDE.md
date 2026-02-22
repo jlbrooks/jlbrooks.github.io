@@ -125,6 +125,11 @@ comments: true  # Enables comment system (if configured)
 3. Test locally with `bundle exec jekyll serve`
 4. Commit and push to trigger automatic deployment
 
+### Linking
+- **Internal links** (posts, pages): use the `relative_url` filter: `[link text]({{ '/2026-02-21-idaho-ski-trip/' | relative_url }})`
+- **Images**: use `{{site.url}}` prefix: `<img src="{{site.url}}/assets/img/YYYY-MM-DD-title/image.jpg" />`
+- Do NOT use bare paths or `{{site.url}}` for post/page links
+
 ### Static Pages
 - Created as `.md` files in repository root
 - Use `page` layout by default
