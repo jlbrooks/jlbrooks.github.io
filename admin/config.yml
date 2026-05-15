@@ -2,6 +2,7 @@ backend:
   name: github
   repo: jlbrooks/jlbrooks.github.io
   branch: master
+  base_url: https://sveltia-cms-auth.jlbrooks.workers.dev
 
 # Required top-level fallback; per-collection media_folder overrides this
 media_folder: assets/img/uploads
