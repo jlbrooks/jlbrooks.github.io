@@ -3,16 +3,16 @@ backend:
   repo: jlbrooks/jlbrooks.github.io
   branch: master
 
-# Images uploaded via the editor go here
-media_folder: assets/img/uploads
-public_folder: /assets/img/uploads
-
 collections:
   - name: posts
     label: Posts
     folder: _posts
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    # Images go in a per-post folder matching the existing convention:
+    # assets/img/YYYY-MM-DD-post-title/
+    media_folder: "assets/img/{{year}}-{{month}}-{{day}}-{{slug}}"
+    public_folder: "/assets/img/{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
     fields:
