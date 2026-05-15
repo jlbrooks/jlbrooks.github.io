@@ -119,6 +119,15 @@ comments: true  # Enables comment system (if configured)
 ## Content Management
 
 ### Blog Post Workflow
+
+#### Via Sveltia CMS (recommended for mobile)
+1. Go to `https://jlbrooks.tech/admin` in any browser
+2. Sign in with GitHub (OAuth via Cloudflare Worker)
+3. Create post, upload images from camera roll, publish — commits directly to `master`
+
+Images are automatically placed in `assets/img/YYYY-MM-DD-post-title/` matching the manual convention.
+
+#### Manual workflow
 1. Create `_posts/YYYY-MM-DD-title.md` with proper front matter
    - **IMPORTANT**: Date format must use zero-padded months and days (e.g., `2026-01-02`, NOT `2026-1-2`)
 2. Add images to `assets/img/YYYY-MM-DD-title/` directory
@@ -151,3 +160,11 @@ comments: true  # Enables comment system (if configured)
 - **Edit buttons**: Link directly to GitHub file editor for post editing
 - **Issue integration**: Claude AI responder configured for `@claude` mentions
 - **Automation**: Fully automated deployment pipeline via GitHub Actions
+
+## Sveltia CMS
+
+Mobile-friendly CMS at `/admin`. Architecture:
+- **`admin/index.html`**: Loads Sveltia CMS JS from CDN
+- **`admin/config.yml`**: Collection config — posts, fields, per-post image folder template
+- **OAuth**: Cloudflare Worker at `https://sveltia-cms-auth.jlbrooks.workers.dev` handles GitHub OAuth callback. Source at `~/projects/oss/sveltia-cms-auth`. Secrets (`GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET`) set via wrangler — do not commit them. GitHub OAuth app registered under jlbrooks account.
+- **`CLOUDFLARE_API_TOKEN`**: Set in `~/.bashrc` for wrangler access. To redeploy the worker: `cd ~/projects/oss/sveltia-cms-auth && pnpm wrangler deploy`
