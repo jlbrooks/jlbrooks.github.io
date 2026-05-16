@@ -16,8 +16,10 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     # Images go in a per-post folder matching the existing convention:
     # assets/img/YYYY-MM-DD-post-title/
-    media_folder: "assets/img/{{year}}-{{month}}-{{day}}-{{slug}}"
-    public_folder: "/assets/img/{{year}}-{{month}}-{{day}}-{{slug}}"
+    # Leading / = relative to repo root (not _posts/). {{slug}} expands to
+    # the full entry slug e.g. 2026-05-16-my-post (no date duplication).
+    media_folder: "/assets/img/{{slug}}"
+    public_folder: "/assets/img/{{slug}}"
     editor:
       preview: false
     fields:
@@ -37,10 +39,7 @@ collections:
           - home-automation
           - travel
           - tech
-      - label: Cover Image
-        name: cover-img
-        widget: image
-        required: false
-        hint: "Optional hero image shown at top of post"
+      # cover-img intentionally omitted: Beautiful Jekyll applies cover
+      # header styling when the field is present even if empty.
       - { label: Comments, name: comments, widget: boolean, default: true }
       - { label: Body, name: body, widget: markdown }
