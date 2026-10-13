@@ -13,7 +13,7 @@ Got out to Berryessa early yesterday morning to hike the [Blue Ridge Loop](https
 
 We got started \~7:45 and I'm glad we got out that early as it's a hot one, even on a cooler day in October! There have clearly been issues as there are many signs along the lines of "Thirsty? Hot? Turn around!"
 
-I decided to do the big climb while it was cooler, hiking counter-clockwise and starting by climbing up to the ridgeline. Good workout with a 35 pound toddler and water on my back! We were reward at the top with nice views of Berryessa and the central valley.
+I decided to do the big climb while it was cooler, hiking counter-clockwise and starting by climbing up to the ridgeline. Good workout with a 35 pound toddler and water on my back! We were rewarded at the top with nice views of Berryessa and the central valley.
 
 ![Looking out over Berryessa](/assets/img/2026-10-12-berryessa-blue-ridge-loop/874E8049-AC61-4A03-8E4F-39C39FD3EC6C_1_102_a.jpeg "Looking out over Berryessa")
 
